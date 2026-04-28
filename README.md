@@ -57,17 +57,35 @@
 > >> > > >
 > >> > > > - [ ] ---
 > >> > > >
-> >> > > > - [ ] ## 👨‍💻 Author
+> >> > > > - [ ] ## 📋 Project Status
 > >> > > >
-> >> > > > - [ ] **Michael Chaves** — [@michaelchaves-dev](https://github.com/michaelchaves-dev)
-> >> > > >
-> >> > > > - [ ] Built with purpose. Dedicated to every Mae who ever said *"Mau Costume"* and meant it with love. 💚
+> >> > > > - [ ] > 🔵 **Currently Under Review** — MOM is currently under review on the Google Play Store. We are in the final stages before public launch!
 > >> > > >
 > >> > > > - [ ] ---
 > >> > > >
-> >> > > > - [ ] ## 📋 Project Status
+> >> > > > - [ ] ## 🧪 Beta Testers Wanted!
 > >> > > >
-> >> > > > - [ ] > 🟡 **In Development** — Laying the foundation. Stay tuned.
+> >> > > > - [ ] We are looking for **15 volunteer beta testers** to help us test MOM before the full public launch.
+> >> > > >
+> >> > > > - [ ] ### Requirements
+> >> > > >
+> >> > > > - [ ] - ✅ An Android device (phone or tablet)
+> >> > > > - [ ] - ✅ A Gmail / Google account (required for Play Store access)
+> >> > > > - [ ] - ✅ Willingness to test the app and share honest feedback
+> >> > > >
+> >> > > > - [ ] ### How to Sign Up
+> >> > > >
+> >> > > > - [ ] If you're interested in becoming a beta tester, please open a new Issue in this repo with the title **"Beta Tester – [Your Name]"** or reach out directly to [@michaelchaves-dev](https://github.com/michaelchaves-dev).
+> >> > > >
+> >> > > > - [ ] > 🙏 Your feedback will directly shape the future of MOM. Help us break bad habits — one tester at a time.
+> >> > > >
+> >> > > > - [ ] ---
+> >> > > >
+> >> > > > - [ ] ## 👨‍💻 Author
+> >> > > >
+> >> > > > - [ ] **Michael F Chaves** — [@michaelchaves-dev](https://github.com/michaelchaves-dev)
+> >> > > >
+> >> > > > - [ ] Built with purpose. Dedicated to every Mae who ever said *"Mau Costume"* and meant it with love. 💚
 > >> > > >
 > >> > > > - [ ] ---
 > >> > > >
