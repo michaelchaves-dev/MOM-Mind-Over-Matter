@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mom-mind-over-matter"
+version = "0.1.0"
+description = "Mind Over Matter — Mau Costume habit check-in CLI (Approved by Maes)."
+readme = "README.md"
+authors = [{ name = "Michael F Chaves" }]
+requires-python = ">=3.9"
+dependencies = []
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Environment :: Console",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.4"]
+
+[project.scripts]
+mom = "mom.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/michaelchaves-dev/MOM-Mind-Over-Matter"
+Issues = "https://github.com/michaelchaves-dev/MOM-Mind-Over-Matter/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
